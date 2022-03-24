@@ -1,2 +1,2 @@
 # BegSubmission
-Beginners submission for DSG
+Beginners hypothesis submission for DSG
